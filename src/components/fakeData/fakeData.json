@@ -1,0 +1,152 @@
+[
+  {
+    "index": 0,
+    "isActive": true,
+    "salary": 1141,
+    "image": "https://xsgames.co/randomusers/assets/avatars/male/1.jpg",
+    "age": 27,
+    "name": "Peters Greene",
+    "email": "petersgreene@acusage.com",
+    "phone": "(+88)015-98902352"
+  },
+  {
+    "index": 1,
+    "isActive": false,
+    "salary": 1709,
+    "image": "https://xsgames.co/randomusers/assets/avatars/male/2.jpg",
+    "age": 34,
+    "name": "Wolfe Bradley",
+    "email": "wolfebradley@acusage.com",
+    "phone": "(+88)017-28688800"
+  },
+  {
+    "index": 2,
+    "isActive": true,
+    "salary": 1406,
+    "image": "https://xsgames.co/randomusers/assets/avatars/male/3.jpg",
+    "age": 34,
+    "name": "Anne Pickett",
+    "email": "annepickett@acusage.com",
+    "phone": "(+88)018-10852320"
+  },
+  {
+    "index": 3,
+    "isActive": false,
+    "salary": 1202,
+    "image": "https://xsgames.co/randomusers/assets/avatars/male/4.jpg",
+    "age": 40,
+    "name": "Robertson Haynes",
+    "email": "robertsonhaynes@acusage.com",
+    "phone": "(+88)019-92260943"
+  },
+  {
+    "index": 4,
+    "isActive": true,
+    "salary": 1930,
+    "image": "https://xsgames.co/randomusers/assets/avatars/male/5.jpg",
+    "age": 40,
+    "name": "Mildred Herrera",
+    "email": "mildredherrera@acusage.com",
+    "phone": "(+88)015-78524875"
+  },
+  {
+    "index": 5,
+    "isActive": false,
+    "salary": 1681,
+    "image": "https://xsgames.co/randomusers/assets/avatars/male/6.jpg",
+    "age": 36,
+    "name": "Hope Mcconnell",
+    "email": "hopemcconnell@acusage.com",
+    "phone": "(+88)017-45392854"
+  },
+  {
+    "index": 6,
+    "isActive": false,
+    "salary": 3084,
+    "image": "https://xsgames.co/randomusers/assets/avatars/male/7.jpg",
+    "age": 37,
+    "name": "Rosie Crawford",
+    "email": "rosiecrawford@acusage.com",
+    "phone": "(+88)018-99539556"
+  },
+  {
+    "index": 7,
+    "isActive": false,
+    "salary": 2166,
+    "image": "https://xsgames.co/randomusers/assets/avatars/male/8.jpg",
+    "age": 20,
+    "name": "Pace Ramos",
+    "email": "paceramos@acusage.com",
+    "phone": "(+88)019-67531601"
+  },
+  {
+    "index": 8,
+    "isActive": true,
+    "salary": 3568,
+    "image": "https://xsgames.co/randomusers/assets/avatars/male/9.jpg",
+    "age": 27,
+    "name": "Abby Cameron",
+    "email": "abbycameron@acusage.com",
+    "phone": "(+88)015-82847134"
+  },
+  {
+    "index": 9,
+    "isActive": true,
+    "salary": 2613,
+    "image": "https://xsgames.co/randomusers/assets/avatars/male/10.jpg",
+    "age": 28,
+    "name": "Jackson Huff",
+    "email": "jacksonhuff@acusage.com",
+    "phone": "(+88)017-94103045"
+  },
+  {
+    "index": 10,
+    "isActive": true,
+    "salary": 3524,
+    "image": "https://xsgames.co/randomusers/assets/avatars/male/11.jpg",
+    "age": 33,
+    "name": "Alta Whitaker",
+    "email": "altawhitaker@acusage.com",
+    "phone": "(+88)019-73892451"
+  },
+  {
+    "index": 11,
+    "isActive": true,
+    "salary": 1567,
+    "image": "https://xsgames.co/randomusers/assets/avatars/male/12.jpg",
+    "age": 31,
+    "name": "Pollard Humphrey",
+    "email": "pollardhumphrey@acusage.com",
+    "phone": "(+88)018-27798974"
+  },
+  {
+    "index": 12,
+    "isActive": true,
+    "salary": 3684,
+    "image": "https://xsgames.co/randomusers/assets/avatars/male/13.jpg",
+    "age": 40,
+    "name": "Ward Jenkins",
+    "email": "wardjenkins@acusage.com",
+    "phone": "(+88)015-33022499"
+  },
+  {
+    "index": 13,
+    "isActive": true,
+    "salary": 1329,
+    "image": "https://xsgames.co/randomusers/assets/avatars/male/14.jpg",
+    "age": 39,
+    "name": "Doris Randolph",
+    "email": "dorisrandolph@acusage.com",
+    "phone": "(+88)015-48365243"
+  },
+  {
+    "index": 14,
+    "isActive": false,
+    "salary": 2710,
+    "image": "https://xsgames.co/randomusers/assets/avatars/male/15.jpg",
+    "age": 22,
+    "name": "Greer Mcguire",
+    "email": "greermcguire@acusage.com",
+    "phone": "(+88)017-30992661"
+  }
+]

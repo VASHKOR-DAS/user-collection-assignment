@@ -1,0 +1,15 @@
+.title {
+    margin: 0, auto;
+    text-align: center;
+}
+
+.title h1 {
+    color: red;
+    background: #000;
+    font-size: 50px;
+}
+
+.data-cart {
+    display: flex;
+    justify-content: space-between;
+}
